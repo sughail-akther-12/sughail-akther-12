@@ -13,13 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Sughail here 👋
-Backend engineer with 8 years of experience, still occasionally surprised by NPE 😑. 
-<br>Currently deep in something I can't talk about yet — but the commits will speak soon.
-
-I work mostly with Java, Spring Boot, Kafka, and distributed systems.
-
-💡**Fun fact** - My name **Sughail** means *Star* in Arabic⭐. So if you've read this far — you know what to do.
-
+Backend engineer with 8 years of experience.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//sughail-12-akther/) 
